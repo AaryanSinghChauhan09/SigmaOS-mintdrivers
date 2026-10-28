@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_mintdrivers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_mintdrivers"
+path = "src/lib.rs"
